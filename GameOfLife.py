@@ -1,5 +1,5 @@
-# Time Complexity :
-# Space Complexity : 
+# Time Complexity : O (m * n) because we are traversing through the complete matrix
+# Space Complexity : O(1) because we are changing the values in the same array
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : NA 
 
